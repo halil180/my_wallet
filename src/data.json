@@ -1,0 +1,16 @@
+{
+  "expenses": [
+    {
+      "item": "234",
+      "cost": 0,
+      "type": "shopping",
+      "id": 1
+    },
+    {
+      "item": "asd",
+      "cost": 34,
+      "type": "taxes",
+      "id": 2
+    }
+  ]
+}
